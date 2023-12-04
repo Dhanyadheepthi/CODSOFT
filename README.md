@@ -1,0 +1,3 @@
+A to-do list is a tool used to organize and prioritize tasks or activities that individuals or teams need to accomplish. It serves as a simple and effective method for managing time and ensuring that important tasks are not overlooked. 
+Time Management: Some to-do lists include deadlines or estimated completion times for each task. This helps individuals manage their time effectively and allocate resources appropriately.
+Goal Setting: To-do lists are often used in conjunction with broader goal-setting strategies. Breaking down larger goals into smaller, manageable tasks makes them more achievable and less overwhelming
